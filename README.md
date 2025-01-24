@@ -108,6 +108,6 @@ FullStack-Project/
 
 ## 📧 Contact
 
-[Your Name]
-[Your Email or GitHub Profile]
+Ritwaj Ranjan
+ritwajranjan.om@gmail.com
 ```
